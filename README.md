@@ -1,4 +1,4 @@
-keep learning
+Keep learning
 
 <!---
 z1the3/z1the3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
